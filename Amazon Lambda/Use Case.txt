@@ -1,3 +1,5 @@
+AWS Lambda (Serverless Computing)
+
 >> Best for:
    - Event-Driven Applications: Applications that respond to events such as file uploads, API requests, or database changes.
 
