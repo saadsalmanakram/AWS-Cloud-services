@@ -1,3 +1,5 @@
+Amazon EC2 (Elastic Cloud Computing)
+
 >> Best for:
    - High-Traffic Websites: Sites with a lot of traffic that require scalability, such as e-commerce platforms or popular web apps.
 
