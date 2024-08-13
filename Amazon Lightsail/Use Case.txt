@@ -1,3 +1,5 @@
+Amazon Lightsail (Simple Virtual Private Servers)
+
 >> Best for:
    - Small Business Websites: Websites for small businesses, blogs, or personal projects that don’t require complex infrastructure.
    
