@@ -1,3 +1,5 @@
+Amazon S3 (Scalable Object Storage)
+
 >> Best for:
    - Static Websites: Websites that serve only static content (HTML, CSS, JavaScript) without the need for server-side processing.
 
